@@ -1,0 +1,8 @@
+{
+  "schemaVersion": 1,
+  "modId": "Twierdza_Peleryna",
+  "enabled": true,
+  "allowedPublicIPv4": [
+    "37.28.155.66"
+  ]
+}
